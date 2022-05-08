@@ -4,3 +4,6 @@
 # آیا شما هم فایل امتحانی دارید؟
 
 احسنت! می‌توانید آن را در تلگرام برای @seyyed_alireza_hashemi یا از طریق pr داخل خود گیت‌هاب برای ما بفرستید!
+
+# لینک‌های مرتبط
+- [توضیحات lfs](https://github.com/git-lfs/git-lfs/blob/main/docs/man/git-lfs-migrate.1.ronn)
