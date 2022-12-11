@@ -17,4 +17,4 @@
 - قسمت آخر رجکس بالا (`(-v[1|2|3|...])?`) مربوط به زمانی است که از یک امتحان چند نسخه (version) مختلف وجود داشته باشد که این قسمت مشخص می‌کند فایل مورد نظر، کدام نسخه‌ی امتحان است.
 
 # لینک‌های مرتبط
-- [توضیحات lfs](https://github.com/git-lfs/git-lfs/blob/main/docs/man/git-lfs-migrate.1.ronn)
+- [توضیحات lfs](https://medium.com/junior-dev/how-to-use-git-lfs-large-file-storage-to-push-large-files-to-github-41c8db1e2d65)
