@@ -18,3 +18,4 @@
 
 # لینک‌های مرتبط
 - [توضیحات lfs](https://medium.com/junior-dev/how-to-use-git-lfs-large-file-storage-to-push-large-files-to-github-41c8db1e2d65)
+- [بارگیری تمام فایل‌های یک پوشه در گیت‌هاب](https://download-directory.github.io/)
